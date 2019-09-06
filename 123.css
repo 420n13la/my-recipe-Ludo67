@@ -24,4 +24,10 @@ p {
   font-size: 20px;
   display: inline-block;
 }
+
+img {
+  width: 175px;
+  height: 175px;
+}
+   
 </style>
